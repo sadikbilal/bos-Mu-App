@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1-1",
+    "locationId": "1",
+    "tableNumber": 1,
+    "status": "available",
+    "qrCode": "masa-1",
+    "lastUpdated": "2025-05-10T11:48:40.156Z"
+  },
+  {
+    "id": "1-2",
+    "locationId": "1",
+    "tableNumber": 2,
+    "status": "occupied",
+    "qrCode": "masa-2",
+    "lastUpdated": "2025-05-10T11:48:40.156Z"
+  },
+  {
+    "id": "1-3",
+    "locationId": "1",
+    "tableNumber": 3,
+    "status": "available",
+    "qrCode": "masa-3",
+    "lastUpdated": "2025-05-10T11:48:40.156Z"
+  },
+  {
+    "id": "1-4",
+    "locationId": "1",
+    "tableNumber": 4,
+    "status": "available",
+    "qrCode": "masa-4",
+    "lastUpdated": "2025-05-10T11:48:40.156Z"
+  },
+  {
+    "id": "1-5",
+    "locationId": "1",
+    "tableNumber": 5,
+    "status": "occupied",
+    "qrCode": "masa-5",
+    "lastUpdated": "2025-05-10T11:48:40.156Z"
+  },
+  {
+    "id": "1-6",
+    "locationId": "1",
+    "tableNumber": 6,
+    "status": "available",
+    "qrCode": "masa-6",
+    "lastUpdated": "2025-05-10T11:48:40.156Z"
+  },
+  {
+    "id": "1-7",
+    "locationId": "1",
+    "tableNumber": 7,
+    "status": "available",
+    "qrCode": "masa-7",
+    "lastUpdated": "2025-05-10T11:48:40.156Z"
+  },
+  {
+    "id": "1-8",
+    "locationId": "1",
+    "tableNumber": 8,
+    "status": "available",
+    "qrCode": "masa-8",
+    "lastUpdated": "2025-05-10T11:48:40.156Z"
+  },
+  {
+    "id": "1-9",
+    "locationId": "1",
+    "tableNumber": 9,
+    "status": "occupied",
+    "qrCode": "masa-9",
+    "lastUpdated": "2025-05-10T11:48:40.156Z"
+  },
+  {
+    "id": "1-10",
+    "locationId": "1",
+    "tableNumber": 10,
+    "status": "available",
+    "qrCode": "masa-10",
+    "lastUpdated": "2025-05-10T11:48:40.156Z"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Merkez Kütüphane",
+    "type": "kütüphane",
+    "currentDensity": "medium",
+    "lastUpdated": "2025-05-10T11:48:40.136Z",
+    "totalSeats": 10,
+    "availableSeats": 7,
+    "entranceQrCode": "kutuphane-giris",
+    "exitQrCode": "kutuphane-cikis",
+    "floors": [
+      {
+        "id": "1-1",
+        "name": "1. Kat",
+        "description": "Sessiz Çalışma Alanı",
+        "densityLevel": "low"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Merkez Yemekhane",
+    "type": "yemekhane",
+    "currentDensity": "medium",
+    "lastUpdated": "2025-05-10T11:48:40.137Z",
+    "totalSeats": 200,
+    "availableSeats": 120,
+    "entranceQrCode": "yemekhane-giris",
+    "exitQrCode": "yemekhane-cikis"
+  }
+]
