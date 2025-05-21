@@ -10,7 +10,7 @@ import { Timestamp } from "firebase/firestore"
 // NOT: Bu bilgileri .env dosyasında saklamanız ve client tarafında
 // NEXT_PUBLIC_ öneki ile kullanmanız önerilir
 const firebaseConfig = {
-  apiKey: "",
+  apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
   authDomain: "bosmu-hackathon.firebaseapp.com",
   projectId: "bosmu-hackathon",
   storageBucket: "bosmu-hackathon.firebasestorage.app",
