@@ -13,7 +13,9 @@ const firebaseConfig = {
   apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
   authDomain: "bosmu-hackathon.firebaseapp.com",
   projectId: "bosmu-hackathon",
-  storageBucket: "bosmu-hackathon.firebasestorage.app",
+  // storageBucket domain should follow the format <projectId>.appspot.com
+  // the previous value used "firebasestorage.app" which breaks uploads
+  storageBucket: "bosmu-hackathon.appspot.com",
   messagingSenderId: "604250194094",
   appId: "1:604250194094:web:729e7ecf63b8df3c8dad3f",
   measurementId: "G-57RENQB8H1"
